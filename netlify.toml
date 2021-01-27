@@ -4,6 +4,5 @@
     publish="public"
 
 [[plugins]]
-     -inputs= {}
      origin= "config" 
      package = "@netlify/plugin-functions-install-core"
