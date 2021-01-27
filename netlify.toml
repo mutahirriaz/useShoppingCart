@@ -1,9 +1,9 @@
 [build]
     command="gatsby build"
-    commandOrigin: "config"
+    commandOrigin= "config"
     publish="public"
 
 [[plugins]]
-  - inputs= {}
+     -inputs= {}
      origin= config 
      package = "@netlify/plugin-functions-install-core"
