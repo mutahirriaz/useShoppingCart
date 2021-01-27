@@ -5,5 +5,5 @@
 
 [[plugins]]
      -inputs= {}
-     origin= config 
+     origin= "config" 
      package = "@netlify/plugin-functions-install-core"
